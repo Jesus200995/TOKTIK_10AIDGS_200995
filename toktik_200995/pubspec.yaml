@@ -28,6 +28,7 @@ flutter:
   assets:
     - assets/videos/
 
+
 # Configuración para los íconos
 flutter_icons:
   android: true
